@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zadatak</string>
+    <string name="title_home">Home</string>
+    <string name="channel_time_pattern">HH:mm</string>
+    <string name="show_time_pattern">dd.MM.yyyy. | HH:mm</string>
+    <string name="no_info">Nema informacija</string>
+    <string name="title_live">Live TV</string>
+    <string name="no_item">Greška s dohvaćanjem podataka</string>
+</resources>
